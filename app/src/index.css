@@ -5,5 +5,12 @@
 body {
   background-color: #151515;
   color: #f2f2f2;
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  margin: 0;
 }
 
+.swiper-slide {
+  width: 20%;
+}
